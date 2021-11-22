@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1637494230 source:d:\curs tekwill\programirovanie c\biblioteca\filebooks.cpp
+	"biblioteca.h"
+
+1637336185 d:\curs tekwill\programirovanie c\biblioteca\main.h
+
+1637501368 source:d:\curs tekwill\programirovanie c\biblioteca\main.cpp
+	"biblioteca.h"
+
+1637501197 d:\curs tekwill\programirovanie c\biblioteca\biblioteca.h
+	<iostream>
+	<cstring>
+	<fstream>
+	<locale>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<ctime>
+
+1637498983 source:d:\curs tekwill\programirovanie c\biblioteca\operations.cpp
+	"biblioteca.h"
+
+1637497676 source:d:\curs tekwill\programirovanie c\biblioteca\search.cpp
+	"biblioteca.h"
+
+1637497373 source:d:\curs tekwill\programirovanie c\biblioteca\reserve.cpp
+	"biblioteca.h"
+
+1637497448 source:d:\curs tekwill\programirovanie c\biblioteca\free.cpp
+	"biblioteca.h"
+
+1637498970 source:d:\curs tekwill\programirovanie c\biblioteca\sort.cpp
+	"biblioteca.h"
+
+1637501224 source:d:\curs tekwill\programirovanie c\biblioteca\delete.cpp
+	"biblioteca.h"
+	"biblioteca.h"
+
